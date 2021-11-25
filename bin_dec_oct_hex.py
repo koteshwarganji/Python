@@ -1,0 +1,11 @@
+# Decimal System -  base 10  (0-9)
+# Binary System - base 2  (0-1)
+# Octal System - base 8 (0-7)
+# HexaDecimal System - base 16 (0-9,a-f)
+
+print(bin(20))
+print(0b10100)
+print(oct(20))
+print(0o24)
+print(hex(20))
+print(0x14)
